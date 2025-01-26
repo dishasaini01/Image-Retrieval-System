@@ -4,7 +4,7 @@
 - Developed an image retrieval system that identifies and retrieves images based on a query image, utilizing Convolutional Neural Networks (CNN) with regularization, and transfer learning. 
 - The system was trained on the Google Landmark Dataset v2 Mini. 
 - The highest accuracy (88.68%) was achieved using the ResNet50 architecture in combination with K-Nearest Neighbors (KNN) for classification.
-- 
+
 ##### Dataset Used:
 #####   a. Training- Google Landmarks v2 Mini (Downsampled to 50 classes)
 #####   b. Evaluation- Revisited Oxford and Paris Dataset
